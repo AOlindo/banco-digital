@@ -16,7 +16,7 @@ Este projeto é uma aplicação Java que simula as operações básicas de um ba
 
 - **BancoDigitalApplication**: Classe principal que gerencia a interação com o usuário e as operações bancárias.
 - **Cliente**: Classe que representa o cliente do banco.
-- **Conta**: Classe abstrata que define os atributos e métodos comuns a todas as contas.
+- **Conta**: Classe que define os atributos e métodos comuns a todas as contas.
 - **ContaCorrente**: Classe que representa uma conta corrente.
 - **ContaPoupanca**: Classe que representa uma conta poupança.
 
